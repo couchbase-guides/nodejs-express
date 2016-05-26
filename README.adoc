@@ -48,7 +48,7 @@ npm init -y
 
 The results should look something like the following:
 
-image::npm-init.png[npm init -y]
+image::images/npm-init.png[npm init -y]
 
 There are a few Express and Couchbase dependencies that must be installed to the project.  These can be installed via Command Prompt or Terminal by executing:
 
