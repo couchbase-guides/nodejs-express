@@ -8,6 +8,8 @@ projects: []
 :icons: font
 :source-highlighter: prettify
 
+= Getting Started with Couchbase on Node.js using Express Framework
+
 This guide walks you through the process of creating a "hello world" Node.js web application that uses link:http://developer.couchbase.com[Couchbase].
 
 == What You'll Build
